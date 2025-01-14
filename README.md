@@ -77,8 +77,6 @@ To get started with the AI Image Generation App, follow these steps:
 ### About Page
 ![]()
 
-### Register Pages
-![]()
 
 ### Contact Page
 ![]()
